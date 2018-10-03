@@ -1,4 +1,4 @@
-﻿$PATHS="C:\Physical Disks\SSD_RAID\ssd-raid.vhdx","C:\Physical Disks\Big REFS Drive\User Files.vhdx"
+﻿$PATHS="PATH-TO-VIRTUAL_DISK1.VHDX","PATH-TO-VIRTUAL_DISK2.VHDX"
 
 $IMAGES = @()
 
